@@ -1,0 +1,13 @@
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\PedidosApp.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\strategy\CarritoService.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\strategy\DescuentoTemporada.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\observer\PedidoCanceladoEvent.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\strategy\DescuentoCupon.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\strategy\DescuentoVIP.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\strategy\EstrategiaDescuento.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\modelo\Pedido.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\observer\AuditoriaLogger.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\observer\InventarioUpdater.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\observer\PedidoConfirmadoEvent.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\observer\GestorPedidosService.java
+C:\Users\abr\Patrones-Remolina-post2-u4\src\main\java\com\universidad\pedidos\observer\EmailNotifier.java
